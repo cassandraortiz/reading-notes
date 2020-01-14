@@ -1,4 +1,4 @@
-[Class-02](https://cassandraortiz.github.io/reading-notes/class-02.md) \| [HTML-Text Cheat Sheets](https://cassandraortiz.github.io/reading-notes/class-02_html-text.md) \| [Introducing CSS](https://cassandraortiz.github.io/reading-notes/class-02_CSS-intro.md) \| [Introducing JavaScript](https://cassandraortiz.github.io/reading-notes/class-02_java-intro.md)
+[Class-02](https://cassandraortiz.github.io/reading-notes/class-02) \| [HTML-Text Cheat Sheets](https://cassandraortiz.github.io/reading-notes/class-02_html-text) \| [Introducing CSS](https://cassandraortiz.github.io/reading-notes/class-02_CSS-intro) \| [Introducing JavaScript](https://cassandraortiz.github.io/reading-notes/class-02_java-intro)
 
 # CONDITIONAL STATEMENTS
 
@@ -107,4 +107,4 @@ Result:
 ```
 ---
 
-[HOME](https://cassandraortiz.github.io/reading-notes/README.md)
+[HOME](https://cassandraortiz.github.io/reading-notes)

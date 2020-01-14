@@ -1,4 +1,4 @@
-[Class-02](https://cassandraortiz.github.io/reading-notes/class-02.md) \| [Introducing CSS](https://cassandraortiz.github.io/reading-notes/class-02-css-intro.md)  \| [Introducing JavaScript](https://cassandraortiz.github.io/reading-notes/class-02-java-intro.md) \| [Loops](https://cassandraortiz.github.io/reading-notes/class-02_loops.md)
+[Class-02](https://cassandraortiz.github.io/reading-notes/class-02) \| [Introducing CSS](https://cassandraortiz.github.io/reading-notes/class-02-css-intro)  \| [Introducing JavaScript](https://cassandraortiz.github.io/reading-notes/class-02-java-intro) \| [Loops](https://cassandraortiz.github.io/reading-notes/class-02_loops)
 
 # HTML Text - Cheat sheets
 
@@ -44,4 +44,4 @@ Tags (or Markup) provide the appropriate structure to the browser. tag usually s
 
 ---
 
-[HOME](https://cassandraortiz.github.io/reading-notes/README.md)
+[HOME](https://cassandraortiz.github.io/reading-notes)

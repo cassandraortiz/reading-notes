@@ -1,4 +1,4 @@
-[Class-02](https://cassandraortiz.github.io/reading-notes/class-02.md) \| [HTML-Text Cheat Sheets](https://cassandraortiz.github.io/reading-notes/class-02-html-text.md) \| [Intro to CSS](https://cassandraortiz.github.io/reading-notes/class-02-css-intro.md) \| [Loops](https://cassandraortiz.github.io/reading-notes/class-02_loops.md)
+[Class-02](https://cassandraortiz.github.io/reading-notes/class-02) \| [HTML-Text Cheat Sheets](https://cassandraortiz.github.io/reading-notes/class-02-html-text) \| [Intro to CSS](https://cassandraortiz.github.io/reading-notes/class-02-css-intro) \| [Loops](https://cassandraortiz.github.io/reading-notes/class-02_loops)
 
 # INTRODUCTING JavaScript
 
@@ -159,4 +159,4 @@ Operator | What does it Test? | Example
 
 ---
 
-[HOME](https://cassandraortiz.github.io/reading-notes/README.md)
+[HOME](https://cassandraortiz.github.io/reading-notes)
