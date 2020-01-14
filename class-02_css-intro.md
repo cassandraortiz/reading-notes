@@ -1,4 +1,4 @@
-[Class-02](https://cassandraortiz.github.io/reading-notes/class-02.md) \| [HTML-Text Cheat Sheets](https://cassandraortiz.github.io/reading-notes/class-02_html-text.md) \| [Introducing JavaScript](https://cassandraortiz.github.io/reading-notes/class-02_java-intro.md) \| [Loops](https://cassandraortiz.github.io/reading-notes/class-02_loops.md)
+[Class-02](https://cassandraortiz.github.io/reading-notes/class-02) \| [HTML-Text Cheat Sheets](https://cassandraortiz.github.io/reading-notes/class-02_html-text) \| [Introducing JavaScript](https://cassandraortiz.github.io/reading-notes/class-02_java-intro) \| [Loops](https://cassandraortiz.github.io/reading-notes/class-02_loops)
 
 # INTRODUCTING CSS (Cascading Selector Sheets)
 
