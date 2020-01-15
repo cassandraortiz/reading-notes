@@ -12,6 +12,12 @@
 
 ---
 
+## *Learning Journal*
+
+ - [Journal Entry 02](https://cassandraortiz.github.io/reading-notes/class-02_journal) 
+
+---
+
 ## *Labs*
 
  - ABOUT ME

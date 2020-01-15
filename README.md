@@ -1,13 +1,13 @@
 # Code 201 Reading Notes
 
-This site is used to log notes I have learned about during the Code 201n17 class.  
+Each class we will be submitting Reading entries, Journal Learning Notes and Labs.  Below you will find a link to all these files.   
 
 **TABLE OF CONTENTS**
 
 | NO. | DAILY ASSIGNMENT | DESCRIPTION |
-| --- | ---------------- | ----------- |
-| 1 | [Read01](https://cassandraortiz.github.io/learning-journal/) | *Introductory HTML and JavaScript* |
-| 2 | [Read02](https://cassandraortiz.github.io/reading-notes/class-02) | *HTML Test, CSS, Logic Comparisons & Loops* | 
+| --- | :--------------: | :---------- |
+| 1 | [CLASS 01](https://cassandraortiz.github.io/learning-journal/) | *102 Review* |
+| 2 | [CLASS 02](https://cassandraortiz.github.io/reading-notes/class-02) | *HTML Test, CSS, Logic Comparisons & Loops* | 
 | 3 | | |
 | 4 | | |
 | 5 | | |
