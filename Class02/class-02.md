@@ -14,7 +14,7 @@
 
 ## *Learning Journal*
 
- - [Journal Entry 02](https://cassandraortiz.github.io/reading-notes/class-02_journal) 
+ - [Journal Entry 02](https://cassandraortiz.github.io/reading-notes/Class02/class-02_journal) 
 
 ---
 

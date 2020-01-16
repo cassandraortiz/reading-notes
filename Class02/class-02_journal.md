@@ -6,7 +6,7 @@ This class was a refresher to the Course 102 we took.  We started to develop our
 
 Below is the proper initial setup for our website.
 
-![IF Statement](/pics/capture.JPG)
+![Template Structure](/pics/Capture.JPG)
 
 In Terminal:
 
