@@ -7,7 +7,7 @@ Each class we will be submitting Reading entries, Journal Learning Notes and Lab
 | NO. | DAILY ASSIGNMENT | DESCRIPTION |
 | --- | :--------------: | :---------- |
 | 1 | [CLASS 01](https://cassandraortiz.github.io/learning-journal/) | *102 Review* |
-| 2 | [CLASS 02](https://cassandraortiz.github.io/reading-notes/class02/class-02/) | *HTML Test, CSS, Logic Comparisons & Loops* | 
+| 2 | [CLASS 02](https://cassandraortiz.github.io/reading-notes/Class02/class-02) | *HTML Test, CSS, Logic Comparisons & Loops* | 
 | 3 | | |
 | 4 | | |
 | 5 | | |

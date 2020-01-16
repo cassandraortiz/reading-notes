@@ -1,4 +1,4 @@
-[Class-02](https://cassandraortiz.github.io/reading-notes/class-02) \| [Introducing CSS](https://cassandraortiz.github.io/reading-notes/class-02_css-intro)  \| [Introducing JavaScript](https://cassandraortiz.github.io/reading-notes/class-02_java-intro) \| [Loops](https://cassandraortiz.github.io/reading-notes/class-02_loops)
+[Class-02](https://cassandraortiz.github.io/reading-notes/Class02/class-02) \| [Introducing CSS](https://cassandraortiz.github.io/reading-notes/Class02/class-02_css-intro)  \| [Introducing JavaScript](https://cassandraortiz.github.io/reading-notes/Class02/class-02_java-intro) \| [Loops](https://cassandraortiz.github.io/reading-notes/Class02/class-02_loops) \| [Learning Journal](https://cassandraortiz.github.io/reading-notes/Class02/class-02_journal)
 
 # HTML Text - Cheat sheets
 
