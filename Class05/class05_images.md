@@ -25,39 +25,59 @@ Store site images in folder called ***images***.  Can always add subfolders for 
 
 ### Image Placement
 
-1. IMAGE BEFORE PARAGRAPH
+- IMAGE BEFORE PARAGRAPH
 
+```html
 <img src="/pics/smiley.jpg" alt="smiling sloth" width="100"/>
 <p> Isn't this sloth just the cutest little thing? He wants to tell you a joke... What do you call a three-humped camel?? ... Pregnant! .... Ha-ha-Ha~!</p>
+```
+![ImageBefore](/pics/ImageBefore.png)
 
-1. IMAGE INSIDE PARAGRAPH
+- IMAGE INSIDE PARAGRAPH
 
+```html
 <p><img src="/pics/smiley.jpg" alt="smiling sloth" width="100"/> Isn't this sloth just the cutest little thing? He wants to tell you a joke... What do you call a three-humped camel?? ... Pregnant! .... Ha-ha-Ha~!</p>
+```
+![ImageInside](/pics/ImageInside.png)
 
-3. IMAGE IN MIDDLE OF PARAGRAPH
+- IMAGE IN MIDDLE OF PARAGRAPH
 
+```html
 <p>Isn't this sloth just the cutest little thing? He wants to tell you a joke... What do you call a three-humped camel?? ... <img src="/pics/smiley.jpg" alt="smiling sloth" width="100"/> Pregnant! .... Ha-ha-Ha~!</p>
+```
+![ImageMiddle](/pics/ImageMiddle.png)
 
-4. HORIZONTAL ALIGNMENT (LEFT & RIGHT)
+- HORIZONTAL ALIGNMENT (LEFT & RIGHT)
 
+```html
 <p><img src="/pics/smiley.jpg" alt="smiling sloth" width="100" align="left"/> Isn't this sloth just the cutest little thing? He wants to tell you a joke... What do you call a three-humped camel?? ... Pregnant! .... Ha-ha-Ha~!</p>
+```
+![Align Horizontal](/pics/AlignHoriz.png)
 
-5. VERTICAL ALIGNMENT (TOP / MIDDLE / BOTTOM)
 
+- VERTICAL ALIGNMENT (TOP / MIDDLE / BOTTOM)
 
+```html
 <p><img src="/pics/smiley.jpg" alt="smiling sloth" width="100" align="middle"/> Isn't this sloth just the cutest little thing? He wants to tell you a joke... What do you call a three-humped camel?? ... Pregnant! .... Ha-ha-Ha~!</p>
+```
+![Align Vertical](/pics/AlignVert.png)
 
 *- this places the starting text line in the middle of the image*
 
 *- if you want text to wrap around the image, use float*
 
 
-6. FIGURE CAPTION
+- FIGURE CAPTION
+```html   
 <figure>
-<img src="/pics/smiley.jpg" alt="smiling sloth" />
+<img src="/pics/smiley.jpg" alt="smiling sloth" width=100%/>
 <br />
 <figcaption> Just a happy little sloth!</figcaption>
 </figure>
+```
+![Caption](/pics/caption.png)
+
+---
 
 ## Three Rules for Creating Images
 

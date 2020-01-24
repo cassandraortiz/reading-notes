@@ -1,0 +1,16 @@
+body{
+    align-items: center;
+    margin: 0% 30% 0% 30%;
+}
+div{
+    width: 50%;
+    border: 1px black solid;
+    padding: 10px;
+    margin: 20px 0px 20px 0px;
+}
+figure{
+    width: 50%;
+    border: 1px black solid;
+    padding: 10px;
+    margin: 20px 0px 20px 0px;
+}
