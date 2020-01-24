@@ -99,6 +99,10 @@ Online Editors:  [photoshop](https://www.photoshop.com/) \| [pixlr](https://www.
 
 *GIFs* - animated gifs, (ex. spinning wheel) should only be used for simple illustrations. 
 
+---
+
+[HOME](https://cassandraortiz.github.io/reading-notes)
+
 
 <!--Picture used from:  https://www.pinterest.com/pin/459789443202656510/ -->
 
