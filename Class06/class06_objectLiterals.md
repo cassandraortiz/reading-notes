@@ -1,4 +1,4 @@
-[Class06](https://cassandraortiz.github.io/reading-notes/Class06/class06) \| [Document Object Model *(pgs 183-242)*](https://cassandraortiz.github.io/reading-notes/Class05/class05_colors) \| [Understanding The Problem Domain Is The Hardest Part Of Programming](https://cassandraortiz.github.io/reading-notes/Class05/class05_text) 
+[Class06](https://cassandraortiz.github.io/reading-notes/Class06/class06) \| [Document Object Model *(pgs 183-242)*](https://cassandraortiz.github.io/reading-notes/Class06/class06_docModelObjects) \| [Understanding The Problem Domain Is The Hardest Part Of Programming](https://cassandraortiz.github.io/reading-notes/Class06/class06_article) 
 
 # Object Literals  *(pgs 100-105)*
 
