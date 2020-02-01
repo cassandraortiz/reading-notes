@@ -12,10 +12,8 @@
 
 ## *Labs*
  
- - [Cookie Stand](https://cassandraortiz.github.io/) 
+ - [Cookie Stand](https://cassandraortiz.github.io/cookie-stand)
 
 ---
 
 [HOME](https://cassandraortiz.github.io/reading-notes)
-
-
