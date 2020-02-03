@@ -7,6 +7,7 @@ Domain modeling is the process of creating a conceptual model in code for a spec
 The model should verify and validate the understanding of a problem.
 
 ***EpicFailVideo***
+
 ```javaScript
 var EpicFailVideo = function(epicRating, hasAnimals){
     this.epicRating = epicRating;
@@ -22,7 +23,7 @@ console.log(corgiFail);
 
 `new` will create a new object with the arguments being stored as the objects properties.
 
-***Generate random number***
+## Generate random number
 
 ```javaScript
 var EpicFailVideo = function(epicRating, hasAnimals){
@@ -43,7 +44,7 @@ console.log(corgiFail.generateRandom(1,5));
 
 `.prototype` is involked after the object looks through its own objects methods and does not find it.  Using **prototype** to share between two or more objects that share the same code.
 
-**Calculate daily Likes**
+## Calculate daily Likes
 
 ```javaScript
 var EpicFailVideo = function(epicRating, hasAnimals){
