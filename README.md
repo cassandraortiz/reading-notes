@@ -2,7 +2,7 @@
 
 Each class we will be submitting Reading entries, Journal Learning Notes and Labs.  Below you will find a link to all these files.   
 
-**TABLE OF CONTENTS**
+HTML Images; CSS Color & TextTABLE OF CONTENTSHTML Images; CSS Color & Text
 
 | CLASS | READING NOTES | DESCRIPTION | LAB |
 | ----- | :-----------: | :---------- | :-- |
@@ -11,9 +11,9 @@ Each class we will be submitting Reading entries, Journal Learning Notes and Lab
 | 3 | [Class03 notes](https://cassandraortiz.github.io/reading-notes/Class03/class03) | *HTML Lists, Control Flow with JS, and the CSS Box Model*|[About Me](https://cassandraortiz.github.io/aboutMe) |
 | 4 | [Class04 notes](https://cassandraortiz.github.io/reading-notes/Class04/class04)  | *HTML Links, Layouts, JS Functions, and Paired Programming* |  [About Me](https://cassandraortiz.github.io/aboutMe) |
 | 5 | [Class05 notes](https://cassandraortiz.github.io/reading-notes/Class05/class05)  | *HTML Images; CSS Color & Text* |  [About Me](https://cassandraortiz.github.io/aboutMe) |
-| 6 | [Class06 notes](https://cassandraortiz.github.io/reading-notes/Class06/class06)  | *JS Object Literals; The DOM* | [Cookie Stand](https://cassandraortiz.github.io/cookie-stand) |
-| 7 | [Class07 notes](https://cassandraortiz.github.io/reading-notes/Class07/class07)  | *HTML Tables; JS Constructor Functions* | [Cookie Stand](https://cassandraortiz.github.io/cookie-stand) |
-| 8 | | |
+| 6 | [Class06 notes](https://cassandraortiz.github.io/reading-notes/Class06/class06)  | *JS Object Literals; The DOM* | [Cookie Stand - branch06](https://cassandraortiz.github.io/cookie-stand) |
+| 7 | [Class07 notes](https://cassandraortiz.github.io/reading-notes/Class07/class07)  | *HTML Tables; JS Constructor Functions* | [Cookie Stand - branch07](https://cassandraortiz.github.io/cookie-stand) |
+| 8 |[Class08 notes](https://cassandraortiz.github.io/reading-notes/Class08/class08)  | *CSS; Layouts* | [Cookie Stand - branch08](https://cassandraortiz.github.io/cookie-stand) 
 | 9 | | |
 | 10 | | |
 | 11 | | |
