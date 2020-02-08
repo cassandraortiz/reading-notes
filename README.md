@@ -14,7 +14,7 @@ HTML Images; CSS Color & TextTABLE OF CONTENTSHTML Images; CSS Color & Text
 | 6 | [Class06 notes](https://cassandraortiz.github.io/reading-notes/Class06/class06)  | *JS Object Literals; The DOM* | [Cookie Stand - branch06](https://cassandraortiz.github.io/cookie-stand) |
 | 7 | [Class07 notes](https://cassandraortiz.github.io/reading-notes/Class07/class07)  | *HTML Tables; JS Constructor Functions* | [Cookie Stand - branch07](https://cassandraortiz.github.io/cookie-stand) |
 | 8 |[Class08 notes](https://cassandraortiz.github.io/reading-notes/Class08/class08)  | *CSS; Layouts* | [Cookie Stand - branch08](https://cassandraortiz.github.io/cookie-stand) 
-| 9 | | |
+| 9 | [Class09 notes](https://cassandraortiz.github.io/reading-notes/Class09/class09) | ** HTML Forms, Lists and Tables; JS Events" | [Cookie Stand - branch Class09]()|
 | 10 | | |
 | 11 | | |
 | 12 | | |
