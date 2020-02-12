@@ -1,4 +1,4 @@
-[Class09](https://cassandraortiz.github.io/reading-notes/Class07/class07) \| [List, Tables & Forms *(pgs 330-357)*](https://cassandraortiz.github.io/reading-notes/Class09/class09_listTablesForms) \| [Events](https://cassandraortiz.github.io/reading-notes/Class07/class07_article)
+[Class09](https://cassandraortiz.github.io/reading-notes/Class09/class09) \| [List, Tables & Forms *(pgs 330-357)*](https://cassandraortiz.github.io/reading-notes/Class09/class09_listTablesForms) \| [Events](https://cassandraortiz.github.io/reading-notes/Class07/class07_article)
 
 # Forms  *(pgs 144-175)*
 
