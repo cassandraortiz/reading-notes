@@ -14,9 +14,9 @@ HTML Images; CSS Color & TextTABLE OF CONTENTSHTML Images; CSS Color & Text
 | 6 | [Class06 notes](https://cassandraortiz.github.io/reading-notes/Class06/class06)  | *JS Object Literals; The DOM* | [Cookie Stand - branch06](https://cassandraortiz.github.io/cookie-stand) |
 | 7 | [Class07 notes](https://cassandraortiz.github.io/reading-notes/Class07/class07)  | *HTML Tables; JS Constructor Functions* | [Cookie Stand - branch07](https://cassandraortiz.github.io/cookie-stand) |
 | 8 |[Class08 notes](https://cassandraortiz.github.io/reading-notes/Class08/class08)  | *CSS; Layouts* | [Cookie Stand - branch08](https://cassandraortiz.github.io/cookie-stand) 
-| 9 | [Class09 notes](https://cassandraortiz.github.io/reading-notes/Class09/class09) | ** HTML Forms, Lists and Tables; JS Events" | [Cookie Stand - branch Class09]()|
-| 10 | | |
-| 11 | | |
+| 9 | [Class09 notes](https://cassandraortiz.github.io/reading-notes/Class09/class09) | *HTML Forms, Lists and Tables; JS Events* | [Cookie Stand - branch Class09]()|
+| 10 |[Class10 notes](https://cassandraortiz.github.io/reading-notes/Class10/class10) | *Debugging* | [Chocolate Pizza - branch Lab10a](https://github.com/cassandraortiz/chocolate-pizza/pull/1)|
+| 11 |[Class11 notes](https://cassandraortiz.github.io/reading-notes/Class11/class11) | *Assorted Topics* | [Start Bus Mall]()| |
 | 12 | | |
 | 13 | | |
 | 14 | | |
