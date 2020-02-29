@@ -19,7 +19,7 @@ HTML Images; CSS Color & TextTABLE OF CONTENTSHTML Images; CSS Color & Text
 | 11 |[Class11 notes](https://cassandraortiz.github.io/reading-notes/Class11/class11) | *Assorted Topics* | [Start Bus Mall](https://github.com/cassandraortiz/bus-mall/pull/1)| |
 | 12 |[Class12 notes](https://cassandraortiz.github.io/reading-notes/Class12/class12) | *Canvas Elements* | [Bus Mall]()|  | |
 | 13 | | |
-| 14 | | |
+| 14 |[Class14 notes](https://cassandraortiz.github.io/reading-notes/Class14/class14) | *CSS Animation* | [Nothing](| |
 | 15 | | |
 
 
